@@ -2,7 +2,7 @@
 
 class Pronamic_WP_Pay_Gateways_AbnAmro_IDealZelfbouwV3_GatewayIntegration {
 	public function __construct() {
-		$this->id = 'deutschebank-ideal-expert-v3';
+		$this->id = 'abnamro-ideal-zelfbouw-v3';
 	}
 
 	public function get_config_factory_class() {
