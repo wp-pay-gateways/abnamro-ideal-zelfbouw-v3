@@ -1,8 +1,11 @@
 <?php
 
-class Pronamic_WP_Pay_Gateways_AbnAmro_IDealZelfbouwV3_GatewayIntegration {
+class Pronamic_WP_Pay_Gateways_AbnAmro_IDealZelfbouwV3_Integration {
 	public function __construct() {
-		$this->id = 'abnamro-ideal-zelfbouw-v3';
+		$this->id         = 'abnamro-ideal-zelfbouw-v3';
+		$this->name       = 'ABN AMRO - iDEAL Zelfbouw - v3';
+		$this->url        = 'https://abnamro.ideal-payment.de/';
+		$this->provider   = 'abnamro';
 	}
 
 	public function get_config_factory_class() {
