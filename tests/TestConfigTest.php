@@ -3,8 +3,9 @@
 /**
  * Title: ABN AMRO - iDEAL Zelfbouw - v3 - Config test test
  * Description:
- * Copyright: Copyright (c) 2005 - 2014
+ * Copyright: Copyright (c) 2005 - 2016
  * Company: Pronamic
+ *
  * @author Remco Tolsma
  * @version 1.0.0
  */
