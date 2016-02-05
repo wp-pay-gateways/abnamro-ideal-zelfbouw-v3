@@ -16,5 +16,6 @@ This projects adheres to [Semantic Versioning](http://semver.org/) and [Keep a C
 ## 1.0.0 - 2016-02-01
 - First release.
 
-[unreleased]: https://github.com/wp-pay-gateways/abnamro-ideal-zelfbouw-v3/compare/1.0.1...HEAD
+[unreleased]: https://github.com/wp-pay-gateways/abnamro-ideal-zelfbouw-v3/compare/1.0.2...HEAD
+[1.0.2]: https://github.com/wp-pay-gateways/abnamro-ideal-zelfbouw-v3/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/wp-pay-gateways/abnamro-ideal-zelfbouw-v3/compare/1.0.0...1.0.1
