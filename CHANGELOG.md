@@ -7,6 +7,9 @@ This projects adheres to [Semantic Versioning](http://semver.org/) and [Keep a C
 ## [Unreleased][unreleased]
 -
 
+## [1.0.2] - 2016-02-05
+- Switched test and production URL's in config classes.
+
 ## [1.0.1] - 2016-02-05
 - Make sure to use the iDEAL Advanced v3 config class.
 
