@@ -1,6 +1,6 @@
 {
   "name": "abnamro-ideal-zelfbouw-v3",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "ABN AMRO - iDEAL Zelfbouw - v3 driver for the WordPress payment processing library.",
   "repository": {
     "type": "git",
