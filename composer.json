@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/abnamro-ideal-zelfbouw-v3",
 	"description": "ABN AMRO - iDEAL Zelfbouw - v3 driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "abn", "amro", "abnamro", "ideal", "zelfbouw", "advanced", "gateway", "pronamic"],
+	"keywords": ["wordpress", "wp", "pay", "abn", "amro", "abnamro", "ideal", "zelfbouw", "advanced", "gateway", "pronamic", "deprecated"],
 	"homepage": "http://www.wp-pay.org/gateways/abnamro-ideal-zelfbouw-v3/",
 	"license": "GPL",
 	"authors": [
